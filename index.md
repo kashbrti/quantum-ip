@@ -2,7 +2,9 @@
 
 This is the webpage dedicated to the quantum interactive proof seminar at EPFL.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We will share the information about the seminar here. 
+
+You can find the references and course material, link to the Zoom meetings and recorded vidoes and the slack channel dedicated to the seminar below.
 
 ### Markdown
 
