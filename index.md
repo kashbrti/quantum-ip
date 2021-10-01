@@ -7,7 +7,7 @@ We will share the information about the seminar here.
 You can find the references and course material, link to the Zoom meetings and recorded vidoes and the slack channel dedicated to the seminar below.
 
 ### Course Material and Resources: 
-1. Lecture notes from Thomas Vidick: http://users.cms.caltech.edu/~vidick/teaching/fsmp/
+1. Lecture notes from Thomas Vidick: [link](http://users.cms.caltech.edu/~vidick/teaching/fsmp/)
 2. Quantum Computation and Quantum Information _M. Nielsen, I. Chuang_
 3. Classical and Quantum Computation _A. Kitaev, A. Shen, N. Vyalyi_
 ```markdown
