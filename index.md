@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Quantum Interactive Proofs
 
-You can use the [editor on GitHub](https://github.com/kashbrti/quantum-ip/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the webpage dedicated to the quantum interactive proof seminar at EPFL.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
