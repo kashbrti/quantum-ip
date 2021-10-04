@@ -10,30 +10,13 @@ You can find the references and course material, link to the Zoom meetings and r
 1. Lecture notes from Thomas Vidick: [link](http://users.cms.caltech.edu/~vidick/teaching/fsmp/)
 2. Quantum Computation and Quantum Information _M. Nielsen, I. Chuang_
 3. Classical and Quantum Computation _A. Kitaev, A. Shen, N. Vyalyi_
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Zoom and SwitchTube links: 
+Zoom: https://epfl.zoom.us/j/69333780300
+Switchtube: pending
+Slack: https://join.slack.com/t/slack-tfg9433/shared_invite/zt-wus5ohtt-aNpLkuR8_n8RQb5NbBZPCQ
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kashbrti/quantum-ip/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Lectures: 
+_Lecture 1: Introduction and General information,_ 
+Zoom:https://epfl.zoom.us/j/69333780300
+Physical Location: INR 113
