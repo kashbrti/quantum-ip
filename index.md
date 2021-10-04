@@ -21,6 +21,6 @@ You can find the references and course material, link to the Zoom meetings and r
 ### Lectures: 
 _Lecture 1: Introduction and General information,_ 
 
--Zoom:https://epfl.zoom.us/j/69333780300
+-Zoom:[zoom_link](https://epfl.zoom.us/j/69333780300)
 
 -Physical Location: INR 113
