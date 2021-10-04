@@ -12,11 +12,11 @@ You can find the references and course material, link to the Zoom meetings and r
 3. Classical and Quantum Computation _A. Kitaev, A. Shen, N. Vyalyi_
 
 ### Zoom and SwitchTube links: 
-Zoom: https://epfl.zoom.us/j/69333780300
-Switchtube: pending
-Slack: https://join.slack.com/t/slack-tfg9433/shared_invite/zt-wus5ohtt-aNpLkuR8_n8RQb5NbBZPCQ
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+-Switchtube: pending
+-Slack: [slack_link](https://join.slack.com/t/slack-tfg9433/shared_invite/zt-wus5ohtt-aNpLkuR8_n8RQb5NbBZPCQ)
 
 ### Lectures: 
 _Lecture 1: Introduction and General information,_ 
-Zoom:https://epfl.zoom.us/j/69333780300
-Physical Location: INR 113
+-Zoom:https://epfl.zoom.us/j/69333780300
+-Physical Location: INR 113
