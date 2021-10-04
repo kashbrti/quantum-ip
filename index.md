@@ -23,4 +23,4 @@ _Lecture 1: Introduction and General information,_
 
 -Zoom:[zoom_link](https://epfl.zoom.us/j/69333780300)
 
--Physical Location: INR 113
+-Physical Location: **INR 113**
