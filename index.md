@@ -18,6 +18,8 @@ You can find the references and course material, link to the Zoom meetings and r
 
 -Slack: [slack_link](https://join.slack.com/t/slack-tfg9433/shared_invite/zt-wus5ohtt-aNpLkuR8_n8RQb5NbBZPCQ)
 
+-In order to subscribe to the mailing list send an empty email to <quantumip-subscribe@listes.epfl.ch>
+
 ### Lectures: 
 _Lecture 1: Introduction and General information,_ 
 
