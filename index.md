@@ -21,7 +21,7 @@ You can find the references and course material, link to the Zoom meetings and r
 ### Lectures: 
 _Lecture 1: Introduction and General information,_ 
 
-**Wednesday, 6th of October 2021** _2-3 pm_
+**Wednesday, 6th of October 2021** _2:15-3:15 pm_
 
 -Zoom:[zoom_link](https://epfl.zoom.us/j/69333780300)
 
