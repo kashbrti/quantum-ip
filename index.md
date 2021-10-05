@@ -19,7 +19,7 @@ You can find the references and course material, link to the Zoom meetings and r
 -Slack: [slack_link](https://join.slack.com/t/slack-tfg9433/shared_invite/zt-wus5ohtt-aNpLkuR8_n8RQb5NbBZPCQ)
 
 ### Lectures: 
-_Lecture 1: Introduction and General information,_ 
+_Lecture 1: Introduction and General information,_  **Wednesday, 6th of October 2021** _2-3 pm_
 
 -Zoom:[zoom_link](https://epfl.zoom.us/j/69333780300)
 
