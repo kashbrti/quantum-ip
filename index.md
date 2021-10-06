@@ -29,7 +29,7 @@ _Lecture 1: Introduction and General information,_
 
 -Physical Location: **INR 113**
 
--Recording: [Switchtube Link](https://tube.switch.ch/channels/NKZjLHC6MS)
+-Recording: [link]( https://tube.switch.ch/videos/lw17k3Zw70 )
 
 **Thursday, 7th of October 2021** _pending_
 
