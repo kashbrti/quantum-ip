@@ -25,8 +25,16 @@ _Lecture 1: Introduction and General information,_
 
 **Wednesday, 6th of October 2021** _2:15-3:15 pm_
 
--Zoom:[zoom_link](https://epfl.zoom.us/j/69333780300)
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
 
 -Physical Location: **INR 113**
 
 -Recording: [Switchtube Link](https://tube.switch.ch/channels/NKZjLHC6MS)
+
+**Thursday, 7th of October 2021** _pending_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **BC 04**
+
+-Recording:
