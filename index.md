@@ -31,7 +31,7 @@ _Lecture 1: Introduction and General information,_
 
 -Recording: [link]( https://tube.switch.ch/videos/lw17k3Zw70 )
 
-**Thursday, 7th of October 2021** _pending_
+**Thursday, 7th of October 2021** _2:15-3:15 pm_
 
 -Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
 
