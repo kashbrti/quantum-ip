@@ -40,4 +40,4 @@ _Lecture 2: Fantastic Qubits and where to find them,_
 
 -Physical Location: **BC 04**
 
--Recording:
+-Recording: [link](https://tube.switch.ch/videos/wlLnSdZr3k)
