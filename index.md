@@ -41,3 +41,14 @@ _Lecture 2: Fantastic Qubits and where to find them,_
 -Physical Location: **BC 04**
 
 -Recording: [link](https://tube.switch.ch/videos/wlLnSdZr3k)
+
+_Lecture 3: Abstract Qubit, Observables and Jordan's Lemma_
+
+**Wednesday, 13th of October 2021** _2:15-3:15 pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **INR 113**
+
+-Recording: 
+
