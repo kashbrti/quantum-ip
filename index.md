@@ -50,7 +50,7 @@ _Lecture 3: Projections, Measurements and Naimark's Theorem_
 
 -Physical Location: **INR 113**
 
--Recording: 
+-Recording: [link](https://tube.switch.ch/videos/r1NF3b15ra)
 
 _Lecture 4: First Qubit Test
 
