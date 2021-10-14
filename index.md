@@ -52,7 +52,7 @@ _Lecture 3: Projections, Measurements and Naimark's Theorem_
 
 -Recording: [link](https://tube.switch.ch/videos/r1NF3b15ra)
 
-_Lecture 4: First Qubit Test
+_Lecture 4: First Qubit Test_
 
 **Thursday, 14th of October 2021** _2:15-3:15 pm_
 
