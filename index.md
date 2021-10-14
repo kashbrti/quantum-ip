@@ -52,3 +52,13 @@ _Lecture 3: Projections, Measurements and Naimark's Theorem_
 
 -Recording: 
 
+_Lecture 4: First Qubit Test
+
+**Thursday, 14th of October 2021** _2:15-3:15 pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **BC 04**
+
+-Recording: 
+
