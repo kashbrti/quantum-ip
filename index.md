@@ -60,5 +60,5 @@ _Lecture 4: First Qubit Test_
 
 -Physical Location: **BC 04**
 
--Recording: 
+-Recording: [link](https://tube.switch.ch/videos/dN1vgCDh0o)
 
