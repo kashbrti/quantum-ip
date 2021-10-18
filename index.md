@@ -10,6 +10,7 @@ You can find the references and course material, link to the Zoom meetings and r
 1. Lecture notes from Thomas Vidick: [link](http://users.cms.caltech.edu/~vidick/teaching/fsmp/)
 2. Quantum Computation and Quantum Information _M. Nielsen, I. Chuang_
 3. Classical and Quantum Computation _A. Kitaev, A. Shen, N. Vyalyi_
+4. Additional notes from Thomas Vidick [link]( https://arxiv.org/abs/1610.01664)
 
 ### Zoom and SwitchTube links: 
 -Zoom: <https://epfl.zoom.us/j/69333780300>
