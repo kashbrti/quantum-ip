@@ -63,3 +63,11 @@ _Lecture 4: First Qubit Test_
 
 -Recording: [link](https://tube.switch.ch/videos/dN1vgCDh0o)
 
+_Lecture 5: Soundness of the first Qubit test_
+
+**Wednesday, 20th of October 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **INR 113**
+
