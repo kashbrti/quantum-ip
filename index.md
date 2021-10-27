@@ -22,7 +22,7 @@ You can find the references and course material, link to the Zoom meetings and r
 -In order to subscribe to the mailing list send an empty email to <quantumip-subscribe@listes.epfl.ch>
 
 ### Lectures: 
-**_Lecture 1: Introduction and General information,_**
+**_Lecture 1: Introduction and General information_**
 
 **Wednesday, 6th of October 2021** _2:15-3:15 pm_
 
@@ -33,7 +33,7 @@ You can find the references and course material, link to the Zoom meetings and r
 -Recording: [link]( https://tube.switch.ch/videos/lw17k3Zw70 )
 
 
-**_Lecture 2: Fantastic Qubits and where to find them,_**
+**_Lecture 2: Fantastic Qubits and where to find them_**
 
 **Thursday, 7th of October 2021** _2:15-3:15 pm_
 
