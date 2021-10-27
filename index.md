@@ -71,3 +71,13 @@ _Lecture 5: Soundness of the first Qubit test_
 
 -Physical Location: **INR 113**
 
+-Recording: [link](https://tube.switch.ch/videos/6yqBmgsnOo)
+
+_Lecture 5: Multiprover Protocols_
+
+**Wednesday, 27th of October 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **INR 113**
+
