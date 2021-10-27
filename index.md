@@ -22,8 +22,8 @@ You can find the references and course material, link to the Zoom meetings and r
 -In order to subscribe to the mailing list send an empty email to <quantumip-subscribe@listes.epfl.ch>
 
 ### Lectures: 
-**_Lecture 1: Introduction and General information,_ 
-**
+**_Lecture 1: Introduction and General information,_ **
+
 **Wednesday, 6th of October 2021** _2:15-3:15 pm_
 
 -Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
@@ -33,8 +33,8 @@ You can find the references and course material, link to the Zoom meetings and r
 -Recording: [link]( https://tube.switch.ch/videos/lw17k3Zw70 )
 
 
-**_Lecture 2: Fantastic Qubits and where to find them,_ 
-**
+**_Lecture 2: Fantastic Qubits and where to find them,_ **
+
 **Thursday, 7th of October 2021** _2:15-3:15 pm_
 
 -Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
@@ -43,8 +43,8 @@ You can find the references and course material, link to the Zoom meetings and r
 
 -Recording: [link](https://tube.switch.ch/videos/wlLnSdZr3k)
 
-**_Lecture 3: Projections, Measurements and Naimark's Theorem_
-**
+**_Lecture 3: Projections, Measurements and Naimark's Theorem_**
+
 **Wednesday, 13th of October 2021** _2:15-3:15 pm_
 
 -Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
@@ -53,8 +53,8 @@ You can find the references and course material, link to the Zoom meetings and r
 
 -Recording: [link](https://tube.switch.ch/videos/r1NF3b15ra)
 
-**_Lecture 4: First Qubit Test_
-**
+**_Lecture 4: First Qubit Test_**
+
 **Thursday, 14th of October 2021** _2:15-3:15 pm_
 
 -Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
@@ -63,8 +63,8 @@ You can find the references and course material, link to the Zoom meetings and r
 
 -Recording: [link](https://tube.switch.ch/videos/dN1vgCDh0o)
 
-**_Lecture 5: Soundness of the first Qubit test_
-**
+**_Lecture 5: Soundness of the first Qubit test_**
+
 **Wednesday, 20th of October 2021** _2:15-3:15pm_
 
 -Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
@@ -73,16 +73,16 @@ You can find the references and course material, link to the Zoom meetings and r
 
 -Recording: [link](https://tube.switch.ch/videos/6yqBmgsnOo)
 
-**_Lecture 6: Multiprover Protocols_
-**
+**_Lecture 6: Multiprover Protocols_**
+
 **Wednesday, 27th of October 2021** _2:15-3:15pm_
 
 -Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
 
 -Physical Location: **INR 113**
 
-**_Lecture 7: The magical Magic Square_
-**
+**_Lecture 7: The magical Magic Square_**
+
 **Thursday, 28th of October 2021** _2:15-3:15pm_
 
 -Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
