@@ -91,3 +91,4 @@ You can find the references and course material, link to the Zoom meetings and r
 
 -Physical Location: **BC 04**
 
+Recodring: [link](https://tube.switch.ch/videos/luigrw5rm2)
