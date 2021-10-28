@@ -81,6 +81,8 @@ You can find the references and course material, link to the Zoom meetings and r
 
 -Physical Location: **INR 113**
 
+-Recording: [link](https://tube.switch.ch/videos/cfSObKlgcb)
+
 **_Lecture 7: The magical Magic Square_**
 
 **Thursday, 28th of October 2021** _2:15-3:15pm_
