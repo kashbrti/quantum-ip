@@ -92,3 +92,23 @@ You can find the references and course material, link to the Zoom meetings and r
 -Physical Location: **BC 04**
 
 Recodring: [link](https://tube.switch.ch/videos/luigrw5rm2)
+
+**_Lecture 8: The magical Magic Square (2)_**
+
+**Wednesday, 4th of November 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **INR 113**
+
+Recodring: [link](https://tube.switch.ch/videos/A45aQrV1mn)
+
+**_Lecture 8: Let's do some Crypto_**
+
+**Thursday, 5th of November 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **BC 04**
+
+Recodring:
