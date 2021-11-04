@@ -103,7 +103,7 @@ Recodring: [link](https://tube.switch.ch/videos/luigrw5rm2)
 
 Recodring: [link](https://tube.switch.ch/videos/A45aQrV1mn)
 
-**_Lecture 8: Let's do some Crypto_**
+**_Lecture 8: Non-Local Qubit Test_**
 
 **Thursday, 5th of November 2021** _2:15-3:15pm_
 
