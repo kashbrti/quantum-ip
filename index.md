@@ -103,7 +103,7 @@ Recodring: [link](https://tube.switch.ch/videos/luigrw5rm2)
 
 Recodring: [link](https://tube.switch.ch/videos/A45aQrV1mn)
 
-**_Lecture 8: Non-Local Qubit Test_**
+**_Lecture 9: Non-Local Qubit Test_**
 
 **Thursday, 5th of November 2021** _2:15-3:15pm_
 
@@ -112,3 +112,25 @@ Recodring: [link](https://tube.switch.ch/videos/A45aQrV1mn)
 -Physical Location: **BC 04**
 
 Recodring: [link](https://tube.switch.ch/videos/NFc5d1nqkV)
+
+**_Lecture 10: Simon's Problem _**
+
+**Wednesday, 10th of November 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **INR 113**
+
+Recodring: [link](https://tube.switch.ch/videos/uyEyJHnOQQ)
+
+
+**_Lecture 11: Testing a Qubit Classically ($1000000 Idea)_**
+
+**Thursday, 11th of November 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **BC 04**
+
+Recodring: [link](https://tube.switch.ch/videos/eAmhBcpyB1)
+
