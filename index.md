@@ -113,7 +113,8 @@ Recodring: [link](https://tube.switch.ch/videos/A45aQrV1mn)
 
 Recodring: [link](https://tube.switch.ch/videos/NFc5d1nqkV)
 
-**_Lecture 10: Simon's Problem _**
+
+**_Lecture 10: Simon's Problem_**
 
 **Wednesday, 10th of November 2021** _2:15-3:15pm_
 
