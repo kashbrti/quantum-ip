@@ -135,3 +135,17 @@ Recodring: [link](https://tube.switch.ch/videos/uyEyJHnOQQ)
 
 Recodring: [link](https://tube.switch.ch/videos/eAmhBcpyB1)
 
+
+**_Lecture 12: Trapdoor Claw-Free Families_**
+
+**Thursday, 17th of November 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **INR 113**
+
+Recodring: 
+
+
+
+
