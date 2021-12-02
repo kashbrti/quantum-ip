@@ -136,7 +136,7 @@ Recodring: [link](https://tube.switch.ch/videos/uyEyJHnOQQ)
 Recodring: [link](https://tube.switch.ch/videos/eAmhBcpyB1)
 
 
-**_Lecture 12: Trapdoor Claw-Free Families_**
+**_Lecture 12: Correctness and Soundness of the Qubit Test _**
 
 **Wednesday, 17th of November 2021** _2:15-3:15pm_
 
@@ -144,8 +144,62 @@ Recodring: [link](https://tube.switch.ch/videos/eAmhBcpyB1)
 
 -Physical Location: **INR 113**
 
-Recodring: 
+Recodring: [link](https://tube.switch.ch/videos/zIfnLb0sNE)
+
+
+**_Lecture 13: Wrapping up Classical Verifier Qubit Test _**
+
+**Thursday, 18th of November 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **BC 04**
+
+Recodring: [link](https://tube.switch.ch/videos/OwYsBTWSU9)
+
+
+**_Lecture 14: Delegation of Quantum Computation _**
+
+**Wednesday, 24th of November 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **INR 113**
+
+Recodring: [link](https://tube.switch.ch/videos/GebGM1ati2)
+
+
+**_Lecture 15: A QMA-Complete Problem (The Local Hamiltonian Problem _**
+
+**Thursday, 25th of November 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **BC 04**
+
+Recodring: [link](https://tube.switch.ch/videos/Tzaye1AV8c)
 
 
 
+**_Lecture 16: Fitzsimons-Hadjucek-Morimae Delegation Protocol _**
+
+**Wednesday, 1th of December 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **INR 113**
+
+Recodring: [link](https://tube.switch.ch/videos/gJ20g5gddn)
+
+
+
+**_Lecture 16: Classically Verifying Single Qubit Hamiltonians _**
+
+**Thursday, 2nd of December 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **BC 04**
+
+Recodring:
 
