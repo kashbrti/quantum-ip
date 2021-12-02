@@ -169,7 +169,7 @@ Recodring: [link](https://tube.switch.ch/videos/OwYsBTWSU9)
 Recodring: [link](https://tube.switch.ch/videos/GebGM1ati2)
 
 
-**_Lecture 15: A QMA-Complete Problem (The Local Hamiltonian Problem _**
+**_Lecture 15: A QMA-Complete Problem (The Local Hamiltonian Problem_**
 
 **Thursday, 25th of November 2021** _2:15-3:15pm_
 
@@ -181,7 +181,7 @@ Recodring: [link](https://tube.switch.ch/videos/Tzaye1AV8c)
 
 
 
-**_Lecture 16: Fitzsimons-Hadjucek-Morimae Delegation Protocol _**
+**_Lecture 16: Fitzsimons-Hadjucek-Morimae Delegation Protocol_**
 
 **Wednesday, 1th of December 2021** _2:15-3:15pm_
 
@@ -193,7 +193,7 @@ Recodring: [link](https://tube.switch.ch/videos/gJ20g5gddn)
 
 
 
-**_Lecture 17: Classically Verifying Single Qubit Hamiltonians _**
+**_Lecture 17: Classically Verifying Single Qubit Hamiltonians_**
 
 **Thursday, 2nd of December 2021** _2:15-3:15pm_
 
