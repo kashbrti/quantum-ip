@@ -193,7 +193,7 @@ Recodring: [link](https://tube.switch.ch/videos/gJ20g5gddn)
 
 
 
-**_Lecture 16: Classically Verifying Single Qubit Hamiltonians _**
+**_Lecture 17: Classically Verifying Single Qubit Hamiltonians _**
 
 **Thursday, 2nd of December 2021** _2:15-3:15pm_
 
