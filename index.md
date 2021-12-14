@@ -153,7 +153,7 @@ Recording: [link](https://tube.switch.ch/videos/uyEyJHnOQQ)
 Recording: [link](https://tube.switch.ch/videos/eAmhBcpyB1)
 
 
-**_Lecture 12: Correctness and Soundness of the Qubit Test _**
+**_Lecture 12: Correctness and Soundness of the Qubit Test_**
 
 **Wednesday, 17th of November 2021** _2:15-3:15pm_
 
@@ -164,7 +164,7 @@ Recording: [link](https://tube.switch.ch/videos/eAmhBcpyB1)
 Recording: [link](https://tube.switch.ch/videos/zIfnLb0sNE)
 
 
-**_Lecture 13: Wrapping up Classical Verifier Qubit Test _**
+**_Lecture 13: Wrapping up Classical Verifier Qubit Test_**
 
 **Thursday, 18th of November 2021** _2:15-3:15pm_
 
@@ -175,7 +175,7 @@ Recording: [link](https://tube.switch.ch/videos/zIfnLb0sNE)
 Recording: [link](https://tube.switch.ch/videos/OwYsBTWSU9)
 
 
-**_Lecture 14: Delegation of Quantum Computation _**
+**_Lecture 14: Delegation of Quantum Computation_**
 
 **Wednesday, 24th of November 2021** _2:15-3:15pm_
 
