@@ -22,6 +22,23 @@ You can find the references and course material, link to the Zoom meetings and r
 -In order to subscribe to the mailing list send an empty email to <quantumip-subscribe@listes.epfl.ch>
 
 ### Lectures: 
+
+
+**_Lecture 20: Invited talk by Thomas Vidick_**
+
+_Classical delegation of quantum computation: further works, challenges, and open questions_
+
+**Wednesday, 15th of December 2021** _2:15-3:15 pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **BC420**
+
+-Recording: [link]()
+
+
+
+
 **_Lecture 1: Introduction and General information_**
 
 **Wednesday, 6th of October 2021** _2:15-3:15 pm_
@@ -91,7 +108,7 @@ You can find the references and course material, link to the Zoom meetings and r
 
 -Physical Location: **BC 04**
 
-Recodring: [link](https://tube.switch.ch/videos/luigrw5rm2)
+Recording: [link](https://tube.switch.ch/videos/luigrw5rm2)
 
 **_Lecture 8: The magical Magic Square (2)_**
 
@@ -101,7 +118,7 @@ Recodring: [link](https://tube.switch.ch/videos/luigrw5rm2)
 
 -Physical Location: **INR 113**
 
-Recodring: [link](https://tube.switch.ch/videos/A45aQrV1mn)
+Recording: [link](https://tube.switch.ch/videos/A45aQrV1mn)
 
 **_Lecture 9: Non-Local Qubit Test_**
 
@@ -111,7 +128,7 @@ Recodring: [link](https://tube.switch.ch/videos/A45aQrV1mn)
 
 -Physical Location: **BC 04**
 
-Recodring: [link](https://tube.switch.ch/videos/NFc5d1nqkV)
+Recording: [link](https://tube.switch.ch/videos/NFc5d1nqkV)
 
 
 **_Lecture 10: Simon's Problem_**
@@ -122,7 +139,7 @@ Recodring: [link](https://tube.switch.ch/videos/NFc5d1nqkV)
 
 -Physical Location: **INR 113**
 
-Recodring: [link](https://tube.switch.ch/videos/uyEyJHnOQQ)
+Recording: [link](https://tube.switch.ch/videos/uyEyJHnOQQ)
 
 
 **_Lecture 11: Testing a Qubit Classically ($1000000 Idea)_**
@@ -133,7 +150,7 @@ Recodring: [link](https://tube.switch.ch/videos/uyEyJHnOQQ)
 
 -Physical Location: **BC 04**
 
-Recodring: [link](https://tube.switch.ch/videos/eAmhBcpyB1)
+Recording: [link](https://tube.switch.ch/videos/eAmhBcpyB1)
 
 
 **_Lecture 12: Correctness and Soundness of the Qubit Test _**
@@ -144,7 +161,7 @@ Recodring: [link](https://tube.switch.ch/videos/eAmhBcpyB1)
 
 -Physical Location: **INR 113**
 
-Recodring: [link](https://tube.switch.ch/videos/zIfnLb0sNE)
+Recording: [link](https://tube.switch.ch/videos/zIfnLb0sNE)
 
 
 **_Lecture 13: Wrapping up Classical Verifier Qubit Test _**
@@ -155,7 +172,7 @@ Recodring: [link](https://tube.switch.ch/videos/zIfnLb0sNE)
 
 -Physical Location: **BC 04**
 
-Recodring: [link](https://tube.switch.ch/videos/OwYsBTWSU9)
+Recording: [link](https://tube.switch.ch/videos/OwYsBTWSU9)
 
 
 **_Lecture 14: Delegation of Quantum Computation _**
@@ -166,7 +183,7 @@ Recodring: [link](https://tube.switch.ch/videos/OwYsBTWSU9)
 
 -Physical Location: **INR 113**
 
-Recodring: [link](https://tube.switch.ch/videos/GebGM1ati2)
+Recording: [link](https://tube.switch.ch/videos/GebGM1ati2)
 
 
 **_Lecture 15: A QMA-Complete Problem (The Local Hamiltonian Problem_**
@@ -177,7 +194,7 @@ Recodring: [link](https://tube.switch.ch/videos/GebGM1ati2)
 
 -Physical Location: **BC 04**
 
-Recodring: [link](https://tube.switch.ch/videos/Tzaye1AV8c)
+Recording: [link](https://tube.switch.ch/videos/Tzaye1AV8c)
 
 
 
@@ -189,7 +206,7 @@ Recodring: [link](https://tube.switch.ch/videos/Tzaye1AV8c)
 
 -Physical Location: **INR 113**
 
-Recodring: [link](https://tube.switch.ch/videos/gJ20g5gddn)
+Recording: [link](https://tube.switch.ch/videos/gJ20g5gddn)
 
 
 
@@ -201,5 +218,28 @@ Recodring: [link](https://tube.switch.ch/videos/gJ20g5gddn)
 
 -Physical Location: **BC 04**
 
-Recodring:
+Recording:
+
+
+**_Lecture 18: Classically Verifying Single Qubit Hamiltonians (2)_**
+
+**Wednesday, 8th of December 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **INR 113**
+
+Recording: [link](https://tube.switch.ch/videos/UGki5qDvJw)
+
+
+
+**_Lecture 19: N-qubit Hamiltonian Verification_**
+
+**Wednesday, 9th of December 2021** _2:15-3:15pm_
+
+-Zoom: [zoom_link](https://epfl.zoom.us/j/69333780300)
+
+-Physical Location: **BC 04**
+
+Recording: [link]()
 
